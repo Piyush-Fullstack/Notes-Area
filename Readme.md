@@ -2,7 +2,14 @@
 
 <p id="description">This project is a full-stack web application that allows users to create edit and collaborate on notes in real-time. Built using the MERN stack (MongoDB Express React Node.js) the app leverages Socket.io for live updates enabling multiple users to work on the same note simultaneously.</p>
 
-<p align="center"><img src="![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white)" alt="shields"><img src="![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white) " alt="shields"><img src="![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)" alt="shields"><img src=" ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black) " alt="shields"><img src="![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&amp;logo=socket.io&amp;logoColor=white)" alt="shields"></p>
+<div align = "center">
+
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
 
 <h2>Project Screenshots:</h2>
 
